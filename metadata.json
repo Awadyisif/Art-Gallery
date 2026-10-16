@@ -1,0 +1,6 @@
+{
+  "name": "رواق الفن التفاعلي | Rawaq Art Studio",
+  "description": "منصة ثلاثية الأبعاد لتصميم العروض المكانية التفاعلية للوحات الفنية على الحائط والطاولة واستنباط الخلفيات والتوصيفات الفنية المعمقة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
